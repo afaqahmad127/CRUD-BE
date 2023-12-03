@@ -1,6 +1,6 @@
 Hi 👋,
 
-My name is Afaq Ahmad a Senior Full Stack Software Engineer. Here are some instruction to follow to run this backend.
+My name is Afaq Ahmad a Senior Full Stack Software Engineer. Here are some instructions to follow to run this backend.
 
 ## Instruction for backend
 
@@ -33,5 +33,3 @@ npm start
 ```
 http://localhost:2023
 ```
-
-#### Working video
