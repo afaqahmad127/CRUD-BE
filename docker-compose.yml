@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    environment:
+      - 'DB_URI=mongodb+srv://afaqahmaddeveloper:nR1wXEYlpHATnv0F@cluster0.endcf1d.mongodb.net/hippa'
+      - 'JSON_WEB_TOKEN=23yor723gfwesfvbyuh2jwgskafbiu2jcwkgsabfiuh2cjwskagfbchwijksanmfbcwhjsa'
+      - 'POR=2023'
+    build:
+      context: .
+      dockerfile: Dockerfile
+    expose:
+      - '2023'
+    ports:
+      - '2023:2023'
